@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "html-webpack-plugin": "^4.5.0",
+    "nodemon": "^3.1.4",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "~3",
+    "webpack-merge": "^6.0.1"
+  }
 }
